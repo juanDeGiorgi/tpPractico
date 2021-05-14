@@ -1,0 +1,7 @@
+listaProductos = [
+    {
+        "Nombre" : "Azucar",
+        "Precio" : 40,
+        "Stock"  : true
+    }
+]
