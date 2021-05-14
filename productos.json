@@ -1,4 +1,4 @@
-listaProductos = [
+[
     {
         "Nombre" : "Azucar",
         "Precio" : 40,
